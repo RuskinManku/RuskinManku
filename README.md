@@ -15,6 +15,7 @@ ML Libraries: PyTorch, Hugging Face, Tensorflow, Scikit-Learn, Pandas
 - ["DeepCuts: Single-Shot Interpretability based Pruning for BERT"](https://arxiv.org/abs/2212.13392), Github link: https://github.com/RuskinManku/DeepCuts
 
 - ["Local and Global Context-Based Pairwise Models for Sentence Ordering"](https://www.sciencedirect.com/science/article/abs/pii/S0950705122001873), Github link: https://github.com/RuskinManku/PairwiseModels4SO
+- ["Malaria Detection and Classificaiton"](https://arxiv.org/abs/2011.14329)
 
 
 <!--

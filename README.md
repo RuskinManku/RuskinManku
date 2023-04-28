@@ -12,8 +12,11 @@ ML Libraries: PyTorch, Hugging Face, Tensorflow, Scikit-Learn, Pandas
 
 ### Research Work
 
-#### DeepCuts: Single-Shot Interpretability based Pruning for BERT
+- DeepCuts: Single-Shot Interpretability based Pruning for BERT
 Github link: https://github.com/RuskinManku/DeepCuts
+
+- Local and Global Context-Based Pairwise Models for Sentence Ordering
+Github link: https://github.com/RuskinManku/PairwiseModels4SO
 
 
 <!--

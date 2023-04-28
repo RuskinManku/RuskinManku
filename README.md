@@ -5,7 +5,9 @@ I love chatting and meeting new people so if you ever wanna get in touch drop me
 
 ### Skills 
 Here are a few things I've picked up along my learning journey.
+
 Languages: Python(ML/NLP), Java(Web Development), C++(Competitive Programming)
+
 ML Libraries: PyTorch, Hugging Face, Tensorflow, Scikit-Learn, Pandas 
 
 

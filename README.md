@@ -20,7 +20,7 @@ ML Libraries: PyTorch, Hugging Face, Tensorflow, Scikit-Learn, Pandas
 
 - Github link: https://github.com/RuskinManku/PairwiseModels4SO
 
-"Stability optimization of Actor-Critic(A2C) algorithm using adversarial autoencoder for autonomous driving
+"Stability optimization of Actor-Critic(A2C) algorithm using adversarial autoencoder for autonomous driving"
 
 - Github link: https://github.com/RuskinManku/AMS598Project
 

@@ -22,7 +22,7 @@ ML Libraries: PyTorch, Hugging Face, Tensorflow, Scikit-Learn, Pandas
 
 "Stability optimization of Actor-Critic(A2C) algorithm using adversarial autoencoder for autonomous driving"
 
-- Github link: https://github.com/RuskinManku/AMS598Project
+- Github link: https://github.com/RuskinManku/Self-driving-in-CARLA
 
 ["Malaria Detection and Classificaiton"](https://arxiv.org/abs/2011.14329)
 
